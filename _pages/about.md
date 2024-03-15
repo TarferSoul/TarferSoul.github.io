@@ -12,9 +12,9 @@ redirect_from:
 I concentrate on NLP, my interests are as follows:
 </p>
 <ul>
-      <li>LLM safety</li>
-      <li>Text Attack</li>
-      <li>RLHF</li>
+      <li>- LLM safety</li>
+      <li>- Text Attack</li>
+      <li>- RLHF</li>
 </ul>
 <p>
   You can find the source code and the instructions on <a href="https://github.com/TarferSoul">GitHub</a>.
