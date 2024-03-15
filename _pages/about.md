@@ -11,11 +11,11 @@ redirect_from:
     Hello! Here is TarferSoul's personal Website. I'm a student from Huazhong University of Science and Technology, EIC. Now
 I concentrate on NLP, my interests are as follows:
 </p>
-
-- LLM
-- Text Attack
-- RLHF
-
+<ul>
+      <li>LLM safety</li>
+      <li>Text Attack</li>
+      <li>RLHF</li>
+</ul>
 <p>
   You can find the source code and the instructions on <a href="https://github.com/TarferSoul">GitHub</a>.
 </p>
